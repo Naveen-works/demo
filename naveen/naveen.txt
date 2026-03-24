@@ -1,2 +1,2 @@
 This is empty
-This is full
+Thi is null file
