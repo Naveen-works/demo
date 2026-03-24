@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 This is empty
 Thi is null file
 
 This next text
+=======
+This is empty
+Thi is null file
+>>>>>>> be5fc21e3810e47dde07785f579ce649eb08166c
